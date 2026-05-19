@@ -1,0 +1,21 @@
+{
+  "short_name": "MediCare",
+  "name": "MediCare Clinic - Appointment Booking",
+  "description": "Book appointments with the best specialists in the city",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0066cc",
+  "background_color": "#f0f7ff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["health", "medical", "lifestyle"]
+}
+
